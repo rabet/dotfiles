@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
@@ -21,7 +21,7 @@
 		"node_modules"
 	],
 	"font_face": "Monaco",
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"line_padding_bottom": 5,
@@ -34,6 +34,10 @@
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
+	"spacegray_fileicons": true,
+	"spacegray_tabs_font_large": true,
+	"spacegray_tabs_normal": true,
+	"theme": "Spacegray.sublime-theme",
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
